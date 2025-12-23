@@ -20,6 +20,14 @@ HTML5 • CSS3 • JavaScript • Bootstrap • Node.js • Express.js • Mongo
 
 ## 📌 Featured Projects  
 
+### 🏡 [HavenStay](https://github.com/tusharparmar4520/HavenStay)  
+An **AI-powered full-stack vacation rental platform** inspired by real-world travel applications.  
+Users can explore, book, and list properties with the help of **AI-driven smart search** and **AI-generated titles & descriptions**.  
+Built with **Node.js, Express, MongoDB**, integrated with **Gemini API 2.5 Flash** and **Leaflet maps** for location visualization.  
+
+🔗 Live Demo: https://havenstay-pp3y.onrender.com/  
+---
+
 ### 🌍 [Obys Agency Clone](https://tusharparmar4520.github.io/obys-agency/)  
 A creative agency-style landing page built with **GSAP animations** and **Locomotive Scroll** for smooth scrolling and motion effects.  
 
